@@ -105,4 +105,4 @@ function useTimer (callback, delay) {
 }
 
 
-export default App;
+export default Practice;
